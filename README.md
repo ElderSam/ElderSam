@@ -3,15 +3,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ElderSam" alt="ElderSam" /> </p>
 
 
-- 🔭 I'm currently working on a project (freelancer)
+- 🔭 I'm currently working on a project
 
-- 🌱 I'm currently learning **ReactJS & Node.js**
-
-- 👯 I'm looking to collaborate in a company
+- 🌱 I'm currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [eldersam.github.io/](https://eldersam.github.io/)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL**
+- 💬 Ask me about **JavaScript, Node.js, SQL**
 
 - 📫 How to reach me **eldersamuel98@gmail.com**
 

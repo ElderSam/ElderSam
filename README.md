@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on a project
 
-- 🌱 I'm currently learning **Node.js**
+- 🌱 I love solving some problems, and creating solutions through technology.
 
 - 👨‍💻 All of my projects are available at [eldersam.github.io/](https://eldersam.github.io/)
 
